@@ -1,6 +1,6 @@
 Package.describe({
   name: 'patrickml:http-status',
-  version: '0.9.9',
+  version: '1.0.0',
   // Brief, one-line summary of the package.
   summary: 'A Configuration to help developers use the correct http status codes',
   // URL to the Git repository containing the source code for this package.
@@ -13,6 +13,7 @@ Package.describe({
 Package.onUse(function(api) {
   api.versionsFrom('1.2.1');
   api.addFiles('http-status.js', 'server');
+  api.export('HTTPSTATUS', 'server');
 });
 
 Package.onTest(function(api) {
