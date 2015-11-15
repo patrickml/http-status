@@ -1,6 +1,6 @@
 Package.describe({
   name: 'patrickml:http-status',
-  version: '1.0.0',
+  version: '1.0.1',
   // Brief, one-line summary of the package.
   summary: 'A Configuration to help developers use the correct http status codes',
   // URL to the Git repository containing the source code for this package.
