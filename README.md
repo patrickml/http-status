@@ -37,6 +37,7 @@ v0.0.1: After reviewing  [Wikipedia - List of HTTP status codes](https://en.wiki
 ## Credits
 Developers:
 Patrick M. Lewis - V 1.0.0 @patrickml
+Edgar U. Joya - V 1.0.0 @eujc21
 
 ## License
 
