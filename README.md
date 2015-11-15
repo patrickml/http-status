@@ -35,9 +35,11 @@ In your method:
 v0.0.1: After reviewing  [Wikipedia - List of HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes), and because winter was coming, this was inevitable to be created.
 
 ## Credits
+```
 Developers:
 Patrick M. Lewis - V 1.0.0 @patrickml
 Edgar U. Joya - V 1.0.0 @eujc21
+```
 
 ## License
 
